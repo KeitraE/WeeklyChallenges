@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "5gxZcuDIHu8Lp/JnmnNZeE3ZxeLvvRm6N9eU+Z+5RveaExIWJ/s9Nuy6vmjImgPLJC4DQ7Cqkfara6MtZgvoBw==",
+  "dgSpecHash": "Km4yZHbGPbUHuMmTs8DFfV5Jk57evZVYIxqPgvf72FUDCRKLbXS6eEnJ7huFoMcT5NfR5TVyDZhjCbgAZcvGug==",
   "success": true,
-  "projectFilePath": "/Users/michaeldoyle/repos/mark18/repos/WeeklyChallenges/ChallengesWithTestsMark8/ChallengesWithTestsMark8.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\Lakeitra Coleman\\Source\\Repos\\WeeklyChallenges\\ChallengesWithTestsMark8\\ChallengesWithTestsMark8.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lakeitra Coleman\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
   "logs": []
 }
